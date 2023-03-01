@@ -1,0 +1,15 @@
+/home/jf/Development/OOP - Exercise1/bin/Debug/net7.0/OOP - Exercise1
+/home/jf/Development/OOP - Exercise1/bin/Debug/net7.0/OOP - Exercise1.deps.json
+/home/jf/Development/OOP - Exercise1/bin/Debug/net7.0/OOP - Exercise1.runtimeconfig.json
+/home/jf/Development/OOP - Exercise1/bin/Debug/net7.0/OOP - Exercise1.dll
+/home/jf/Development/OOP - Exercise1/bin/Debug/net7.0/OOP - Exercise1.pdb
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.csproj.AssemblyReference.cache
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.AssemblyInfoInputs.cache
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.AssemblyInfo.cs
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.csproj.CoreCompileInputs.cache
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.dll
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/refint/OOP - Exercise1.dll
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.pdb
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/OOP - Exercise1.genruntimeconfig.cache
+/home/jf/Development/OOP - Exercise1/obj/Debug/net7.0/ref/OOP - Exercise1.dll
